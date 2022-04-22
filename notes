@@ -11,6 +11,10 @@ linked files (ln -s)
     config-osx.fish
     fish_variables
     fish-startup.sh
+/.oh-my-zsh
+  /custom
+    /themes
+      finn.zsh-theme
 /powerline
   /colorschemes/*
   /themes/*
