@@ -11,6 +11,7 @@ alias lla="exa --no-user --icons --long --header --git --sort=name --group-direc
 alias l="ll"
 alias la="lla"
 alias home="tmux attach -t home"
+alias ta="tmux attach -t "
 alias cdot="cd /Users/connor/Projects/dotfiles && pwd && la"
 alias cdotf="cd /Users/connor/Projects/dotfiles/.config && pwd && la"
 
