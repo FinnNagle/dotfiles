@@ -102,6 +102,6 @@ source $ZSH/oh-my-zsh.sh
 
 alias ls="ls -p -G"
 alias la="ls -A"
-alias ll="ls -l"
-alias lla="ll -A"
+alias ll="exa -l -g -F -H --icons --sort=name --group-directories-first"
+alias lla="ll -a"
 alias g="git"

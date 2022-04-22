@@ -18,10 +18,11 @@ alias la "ls -A"
 alias ll "ls -l"
 alias lla "ll -A"
 alias g "git"
-alias ta "tmux attach -t"
-alias home "tmux attach -t home"
-alias cdot "cd /Users/connor/Projects/dotfiles && pwd && la"
-alias cdotf "cd /Users/connor/Projects/dotfiles/.config && pwd && la"
+alias tmuxa "tmux attach -t"
+alias tmuxnew "tmux new -s"
+alias tmuxkill "tmux kill-ses -t"
+alias tmuxl "tmux ls"
+alias home "tmux new -A -s home"
 
 # starship init fish | source
 

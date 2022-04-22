@@ -7,8 +7,8 @@
 		"window":               { "fg": "nord:blue",  "bg": "nord:base03", "attrs": [] },
 		"window:divider":       { "fg": "nord:base01", "bg": "nord:base03", "attrs": [] },
 		"window:current":       { "fg": "nord:base00",  "bg": "nord:base03", "attrs": [] },
-		"window_name":          { "fg": "nord:blue",  "bg": "nord:base03", "attrs": ["bold"] },
-		"session":              { "fg": "nord:base3",  "bg": "nord:base0", "attrs": ["bold"] },
-		"session:prefix":       { "fg": "nord:base01", "bg": "nord:base1",  "attrs": [] }
+		"window_name":          { "fg": "nord:base0",  "bg": "nord:base03", "attrs": [] },
+		"session":              { "fg": "nord:base02",  "bg": "nord:base0", "attrs": ["bold"] },
+		"session:prefix":       { "fg": "nord:brcyan", "bg": "nord:base0",  "attrs": ["bold"] }
 	}
 }
