@@ -4,3 +4,18 @@
 
 linked files (ln -s)
 
+/.config
+  /fish
+    /functions
+    config.fish
+    config-osx.fish
+    fish_variables
+    fish-startup.sh
+/powerline
+  /colorschemes/*
+  /themes/*
+  colors.json
+  config.json
+.tmux.config
+.zshrc
+
